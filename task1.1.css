@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: 'Roboto Slab', serif; /* Ensure the font-family is properly applied */
+    background-color: #d2a262; /* Set background color for the entire body */
+    color: #333;
+  }
+  h1 {
+    text-align: center;
+    color: black;
+    padding: 20px 0; /* Add padding to the top and bottom of h1 */
+    margin: 0; /* Remove any default margin */
+    background-color: #8b441f; /* Set background color for h1 */
+  }
+  nav {
+     /* Set background color for the navigation */
+    text-align: center; /* Center align the navigation items */
+    padding: 10px 0; /* Add padding to the top and bottom of the navigation */
+  }
+  nav ul {
+    list-style-type: none; /* Remove bullets from the list */
+    padding: 0; /* Remove any default padding */
+  }
+  nav ul li {
+    display: inline; /* Display list items horizontally */
+    margin: 0 10px; /* Add margin between list items */
+  }
+  nav ul li a {
+    color: green; /* Set text color for the navigation links */
+    text-decoration: none; /* Remove underline from the links */
+  }

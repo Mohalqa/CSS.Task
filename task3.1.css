@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: row;
+   
+}
+.orange{
+background-color: #fea500;
+width: 50%;
+height: 900px;
+}
+.blues{
+
+background-color: blue;
+width: 50%;
+height: 900px;
+}
+h1{
+    text-align: center;
+    margin: 50% auto;
+}
